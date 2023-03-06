@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name IS31FL3731)(type KiCad)(uri C:/Users/Kye/Desktop/music_hub/Display_board/Component_Library/IS31FL3731)(options "")(descr ""))
+  (lib (name Bar_LED_Footprint)(type KiCad)(uri C:/Users/Kye/Desktop/music_hub/Display_board/Bar_LED_Footprint.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name IS31FL3731)(type Legacy)(uri C:/Users/Kye/Desktop/music_hub/Display_board/Component_Library/IS31FL3731/IS31FL3731.lib)(options "")(descr ""))
+  (lib (name Music_Hub_lib)(type Legacy)(uri C:/Users/Kye/Desktop/music_hub/Display_board/Music_Hub_lib.lib)(options "")(descr "")(disabled))
+)
